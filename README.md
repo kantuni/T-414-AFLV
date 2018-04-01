@@ -4,8 +4,4 @@
 
 ## Warmup
 
-| Problem                                                      | Solution                                                    |
-| ------------------------------------------------------------ | ----------------------------------------------------------- |
-| [A Different Problem](https://open.kattis.com/problems/different) | https://github.com/kantuni/Kattis/blob/master/different.cc  |
-| [Bus Numbers](https://open.kattis.com/problems/busnumbers)   | https://github.com/kantuni/Kattis/blob/master/busnumbers.cc |
-
+- A Different Problem [[source]](https://open.kattis.com/problems/different) [[solution]](https://github.com/kantuni/Kattis/blob/master/different.cc)
