@@ -1,5 +1,4 @@
-# T-414-AFLV
-Solutions to "T-414-ÁFLV: A Competitive Programming Course" by Reykjavík University
+# Solutions to "[T-414-ÁFLV: A Competitive Programming Course](https://github.com/SuprDewd/T-414-AFLV)" by Reykjavík University
 
 
 
