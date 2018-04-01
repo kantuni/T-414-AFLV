@@ -6,3 +6,4 @@
 
 - A Different Problem [[source]](https://open.kattis.com/problems/different) [[solution]](https://github.com/kantuni/Kattis/blob/master/different.cc)
 - Bus Numbers [[source]](https://open.kattis.com/problems/busnumbers) [[solution]](https://github.com/kantuni/Kattis/blob/master/busnumbers.cc)
+- Cold-puter Science [[source]](https://open.kattis.com/problems/cold) [[solution]](https://github.com/kantuni/Kattis/blob/master/cold.cc)
