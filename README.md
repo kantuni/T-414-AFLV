@@ -10,5 +10,5 @@
 - Hello World! [[source]](https://open.kattis.com/problems/hello) [[solution]](https://github.com/kantuni/Kattis/blob/master/hello.cc)
 - In Or Out [[source]](https://open.kattis.com/problems/mandelbrot) [[solution]](https://github.com/kantuni/Kattis/blob/master/mandelbrot.cc)
 - Natrij [[source]](https://open.kattis.com/problems/natrij) [[solution]](https://github.com/kantuni/Kattis/blob/master/natrij.cc)
-- Path Tracing [[source]](https://open.kattis.com/problems/pathtracing)
+- Path Tracing [[source]](https://open.kattis.com/problems/pathtracing) [[solution]](https://github.com/kantuni/Kattis/blob/master/pathtracing.cc)
 - Server [[source]](https://open.kattis.com/problems/server) [[solution]](https://github.com/kantuni/Kattis/blob/master/server.cc)
