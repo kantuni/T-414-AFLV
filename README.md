@@ -15,3 +15,4 @@
 ## Introduction
 
 - Flexible Spaces [[source]](https://open.kattis.com/problems/flexible) [[solution]](https://github.com/kantuni/Kattis/blob/master/flexible.cc)
+- Secret Message [[source]](https://open.kattis.com/problems/secretmessage) [[solution]](https://github.com/kantuni/Kattis/blob/master/secretmessage.cc)
