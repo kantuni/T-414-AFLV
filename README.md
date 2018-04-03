@@ -14,4 +14,4 @@
 
 ## Introduction
 
-- Flexible Spaces [[source]](https://open.kattis.com/problems/flexible)
+- Flexible Spaces [[source]](https://open.kattis.com/problems/flexible) [[solution]](https://github.com/kantuni/Kattis/blob/master/flexible.cc)
