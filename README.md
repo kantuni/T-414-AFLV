@@ -17,3 +17,4 @@
 - Flexible Spaces [[source]](https://open.kattis.com/problems/flexible) [[solution]](https://github.com/kantuni/Kattis/blob/master/flexible.cc)
 - Secret Message [[source]](https://open.kattis.com/problems/secretmessage) [[solution]](https://github.com/kantuni/Kattis/blob/master/secretmessage.cc)
 - Permutation Encryption [[source]](https://open.kattis.com/problems/permutationencryption) [[solution]](https://github.com/kantuni/Kattis/blob/master/permutationencryption.cc)
+- Collatz Conjecture [[source]](https://open.kattis.com/problems/collatz)
