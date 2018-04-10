@@ -18,3 +18,4 @@
 - Secret Message [[source]](https://open.kattis.com/problems/secretmessage) [[solution]](https://github.com/kantuni/Kattis/blob/master/secretmessage.cc)
 - Permutation Encryption [[source]](https://open.kattis.com/problems/permutationencryption) [[solution]](https://github.com/kantuni/Kattis/blob/master/permutationencryption.cc)
 - Collatz Conjecture [[source]](https://open.kattis.com/problems/collatz)
+- Cross [[source]](https://open.kattis.com/problems/cross)
