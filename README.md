@@ -44,3 +44,4 @@
 [[solution]](https://github.com/kantuni/Kattis/blob/master/collatz.cpp)
 - Cross 
 [[source]](https://open.kattis.com/problems/cross)
+[[solution]](https://github.com/kantuni/Kattis/blob/master/cross.cpp)
